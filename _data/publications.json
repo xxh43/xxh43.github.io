@@ -35,12 +35,16 @@
 		]
 	},
 	
-		{
+	{
 		"id": "precision",
 		"title": "PRECISION: Precomputing Environment Semantics for Contact-Rich Character Animation ",
 		"authors": ["Mubbasir Kapadia , Xu Xianghao, Maurizio Nitti, Marcelo Kallmann, Stelian Coros, Robert W. Sumner and Markus Gross"],
 		"venue": "I3D 2016",
 		"date": "2016-Feb-27",
+		"links" : [
+			{"type": "link", "name": "paper", "target": "https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160208215300/Precomputed-Environment-Semantics-for-Contact-Rich-Character-Animation-Paper.pdf"},
+			{"type": "link", "name": "project page", "target": "https://rkjones4.github.io/shapeAssembly.html"}
+		]
 
 	}
 ]
