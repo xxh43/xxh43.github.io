@@ -9,3 +9,29 @@ title: Xianghao Xu
 		My name is Xianghao Xu, I'm a 2nd year Ph.D student at Brown University
 	</P>
 </div>
+
+<div class='mainitem' id='publications'> 
+
+	<div class='mainheader'>Publications</div>
+
+	{% assign sorted_pubs = site.data.publications | sort: 'date' | reverse %}
+
+	{% for pub in sorted_pubs %}
+
+		<div class='row pub'>
+
+			<div class='col-lg-9 col-md-8 col-xs-8 pubtextsection'>
+
+				<div class='pubtitle'>
+					{{ pub.title }}
+				</div>
+
+				<div class='pubvenue'>{{ pub.venue }}</div>
+
+
+			</div>
+
+		</div>
+	{% endfor %}
+
+	</div>
