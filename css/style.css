@@ -10,7 +10,7 @@ a, a:hover {
 /*---------------------------------------------------------------*/
 
 #mainnav {
-	
+	color:#744094;
 }
 
 .navbar-brand {
@@ -20,11 +20,11 @@ a, a:hover {
 }
 
 .navbar-brand a {
-	
+	color:#744094;
 }
 
 .navbar-brand a:hover {
-	
+	color:#744094;
 }
 
 /*---------------------------------------------------------------*/
@@ -51,6 +51,7 @@ a, a:hover {
 
 .mainitem {
 	margin-bottom: 1.25em;
+	color:#744094;
 }
 
 .mainheader {
@@ -58,6 +59,7 @@ a, a:hover {
 	font-variant: small-caps;
 	font-size: 25px;
 	margin-bottom: 6px;
+	color:#744094;
 }
 
 /*---------------------------------------------------------------*/
