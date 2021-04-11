@@ -14,7 +14,7 @@ title: Xianghao Xu
 
 	<div class='mainheader'>Publications</div>
 
-	{% assign sorted_pubs = site.data.publications | sort: 'date' | reverse %}
+	{% assign sorted_pubs = site.data.publications %}
 
 	{% for pub in sorted_pubs %}
 
@@ -28,10 +28,9 @@ title: Xianghao Xu
 
 				<div class='pubvenue'>{{ pub.venue }}</div>
 
-
 			</div>
 
 		</div>
 	{% endfor %}
 
-	</div>
+</div>
