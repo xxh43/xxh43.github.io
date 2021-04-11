@@ -25,6 +25,19 @@ title: Xianghao Xu
 				<div class='pubtitle'>
 					{{ pub.title }}
 				</div>
+				
+				<div class='pubauthors'>
+					{% for author in pub.authors %}
+						{% if forloop.last %}{% unless forloop.first %} and {% endunless %}{% endif %}
+						{% if site.data.people[author] %}
+							<a class='pubauthor' target='_blank' href='{{ site.data.people[author] }}'>
+								{{ author }}{% if forloop.last == false %}{% unless forloop.length == 2 %}, {% endunless %}{% endif %}
+							</a>
+						{% else %}
+							{{ author }}{% if forloop.last == false %}{% unless forloop.length == 2 %}, {% endunless %}{% endif %}
+						{% endif %}
+					{% endfor %}
+				</div>
 
 				<div class='pubvenue'>{{ pub.venue }}</div>
 
