@@ -9,13 +9,13 @@ body {
 }
 
 a, a:hover {
-	color: #bb9233;
+	color: #8440A1;
 }
 
 /*---------------------------------------------------------------*/
 
 #mainnav {
-	background-color: #4d1166;
+	background-color: #8440A1;
 }
 
 .navbar-brand {
@@ -25,11 +25,11 @@ a, a:hover {
 }
 
 .navbar-brand a {
-	color:#4d1166;
+	color:#8440A1;
 }
 
 .navbar-brand a:hover {
-	color: #FFFFFF;
+	color: #8440A1;
     text-decoration: none;
 }
 
@@ -79,7 +79,7 @@ a, a:hover {
 }
 
 .oldtravelitem {
-	color: #AAAAAA;
+	color: #8440A1;
 }
 
 .traveldate {
@@ -144,7 +144,7 @@ a, a:hover {
 .pubaward {
 	display: inline-block;
 	margin-top: 5px;
-	background-color: #4d1166;
+	background-color: #8440A1;
 	font-size: 13px;
 }
 
