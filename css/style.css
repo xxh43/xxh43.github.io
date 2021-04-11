@@ -74,12 +74,10 @@ a, a:hover {
 
 .pub {
 	padding-bottom: 8px;
-	color: #8440A1;
 }
 
 .pubtextsection {
 	padding-left: 0px;
-	color: #8440A1;
 }
 
 .pubtitle {
@@ -93,7 +91,6 @@ a, a:hover {
 .pubaward {
 	display: inline-block;
 	margin-top: 5px;
-	background-color: #8440A1;
 	font-size: 13px;
 }
 
