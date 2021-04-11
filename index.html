@@ -56,6 +56,32 @@ title: Xianghao Xu
 				</div>
 
 				<div class='pubvenue'>{{ pub.venue }}</div>
+				
+				{% for link in pub.links %}
+					{% if forloop.first == false %} | {% endif %}
+
+					{% capture lname %}
+						{% if link.type == 'link' %}
+							{{ link.name }}
+						{% else %}
+							{{ link.type }}
+						{% endif %}
+					{% endcapture %}
+
+					{% capture ltarget %}
+						{% if link.type == 'link' %}
+							{{ link.target }}
+						{% else %}
+							{{ link.type }}/{% if link.target %}{{ link.target }}{% else %}{{ pub.id }}.{{ site.data.extensions[link.type] }}{% endif %}
+						{% endif %}
+					{% endcapture %}
+
+					<a class='publink' target='_blank' href='{{ ltarget }}'>{{ lname }}</a>
+				{% endfor %}
+
+				{% if pub.award %}
+					<div><span class='label pubaward'>{{ pub.award }}</span></div>
+				{% endif %}
 
 			</div>
 
