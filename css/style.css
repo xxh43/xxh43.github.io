@@ -4,7 +4,7 @@ body {
 }
 
 a, a:hover {
-	
+	color:#744094;
 }
 
 /*---------------------------------------------------------------*/
@@ -74,10 +74,12 @@ a, a:hover {
 
 .pub {
 	padding-bottom: 8px;
+	color:#744094;
 }
 
 .pubtextsection {
 	padding-left: 0px;
+	color:#744094;
 }
 
 .pubtitle {
