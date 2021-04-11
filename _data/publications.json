@@ -43,7 +43,7 @@
 		"date": "2016-Feb-27",
 		"links" : [
 			{"type": "link", "name": "paper", "target": "https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160208215300/Precomputed-Environment-Semantics-for-Contact-Rich-Character-Animation-Paper.pdf"},
-			{"type": "link", "name": "project page", "target": "https://rkjones4.github.io/shapeAssembly.html"}
+			{"type": "link", "name": "project page", "target": "https://la.disneyresearch.com/publication/contact-rich-character-animation/"}
 		]
 
 	}
