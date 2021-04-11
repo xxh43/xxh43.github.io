@@ -20,10 +20,11 @@ a, a:hover {
 }
 
 .navbar-brand a {
-	color: #8440A1;
+	
 }
 
 .navbar-brand a:hover {
+	color: #FFFFFF;
     text-decoration: none;
 }
 
