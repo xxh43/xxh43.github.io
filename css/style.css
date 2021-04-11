@@ -3,11 +3,6 @@ body {
 	font-size: 15px;
 }
 
-.post {
-	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 18px;
-}
-
 a, a:hover {
 	color: #8440A1;
 }
@@ -21,6 +16,7 @@ a, a:hover {
 .navbar-brand {
 	font-size: 3em;
 	line-height: 0.6em;
+	color: #8440A1;
 	font-variant: small-caps;
 }
 
@@ -37,6 +33,7 @@ a, a:hover {
 
 .sidebaritem {
 	margin-bottom: 15px;
+	color: #8440A1;
 }
 
 .sidebarheader {
@@ -44,55 +41,9 @@ a, a:hover {
 	font-variant: small-caps;
 	font-size: 17px;
 	margin-bottom: 2px;
-}
-
-/*---------------------------------------------------------------*/
-
-#officehours {
-	margin-top: 8px;
-	margin-bottom: 8px;
-}
-
-#prospectives {
-	margin-top: 8px;
-	margin-bottom: 8px;
-}
-
-/*---------------------------------------------------------------*/
-
-.teachingitem {
-	margin-bottom: 6px;
-}
-
-.teachingterm {
-	font-weight: bold;
-}
-
-.teachinglink {
-	font-weight: bold;
-}
-
-/*---------------------------------------------------------------*/
-
-.travelitem {
-	margin-bottom: 6px;
-}
-
-.oldtravelitem {
 	color: #8440A1;
 }
 
-.traveldate {
-	font-weight: bold;
-}
-
-.travelloc {
-	/*font-weight: bold;*/
-}
-
-.travelevent {
-	/*font-style: italic;*/
-}
 
 /*---------------------------------------------------------------*/
 
@@ -127,10 +78,12 @@ a, a:hover {
 
 .pub {
 	padding-bottom: 8px;
+	color: #8440A1;
 }
 
 .pubtextsection {
 	padding-left: 0px;
+	color: #8440A1;
 }
 
 .pubtitle {
