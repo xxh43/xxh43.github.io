@@ -16,11 +16,11 @@ a, a:hover {
 .navbar-brand {
 	font-size: 3em;
 	line-height: 0.6em;
-	color: #8440A1;
 	font-variant: small-caps;
 }
 
 .navbar-brand a {
+	color: #8440A1;
 }
 
 .navbar-brand a:hover {
