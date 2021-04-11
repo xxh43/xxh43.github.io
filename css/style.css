@@ -4,7 +4,6 @@ body {
 }
 
 a, a:hover {
-	color: #8440A1;
 }
 
 /*---------------------------------------------------------------*/
@@ -20,7 +19,7 @@ a, a:hover {
 }
 
 .navbar-brand a {
-	
+	color: #FFFFFF;
 }
 
 .navbar-brand a:hover {
