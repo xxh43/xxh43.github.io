@@ -38,7 +38,7 @@
 	{
 		"id": "precision",
 		"title": "PRECISION: Precomputing Environment Semantics for Contact-Rich Character Animation ",
-		"authors": ["Mubbasir Kapadia , Xu Xianghao, Maurizio Nitti, Marcelo Kallmann, Stelian Coros, Robert W. Sumner, Markus Gross"],
+		"authors": ["Mubbasir Kapadia", "Xu Xianghao", "Maurizio Nitti", "Marcelo Kallmann", "Stelian Coros", "Robert W. Sumner", "Markus Gross"],
 		"venue": "I3D 2016",
 		"date": "2016-Feb-27",
 		"links" : [
