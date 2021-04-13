@@ -76,19 +76,22 @@ a, a:hover {
 
 .pub {
 	padding-bottom: 8px;
+	
 }
 
 .pubtextsection {
 	padding-left: 0px;
+	color:#808080;
 }
 
 .pubtitle {
 	font-weight: bold;
-
+	color:#744094;
 }
 
 .pubvenue {
 	font-style: italic;
+	color:#000000;
 }
 
 .pubaward {
