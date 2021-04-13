@@ -51,7 +51,7 @@ a, a:hover {
 
 .mainitem {
 	margin-bottom: 1.25em;
-	color:#744094;
+	
 }
 
 .mainheader {
@@ -59,7 +59,7 @@ a, a:hover {
 	font-variant: small-caps;
 	font-size: 25px;
 	margin-bottom: 6px;
-	color:#744094;
+
 }
 
 /*---------------------------------------------------------------*/
@@ -84,7 +84,7 @@ a, a:hover {
 
 .pubtitle {
 	font-weight: bold;
-	color:#744094;
+
 }
 
 .pubvenue {
