@@ -1,5 +1,12 @@
 [
 	{
+		"id": "floorgen",
+		"title": "Roominoes: Generating Novel 3D Floor Plans From Existing 3D Rooms",
+		"authors": ["Kai Wang", "Xianghao Xu", "Leon Lei", "Natalie Lindsay", "Selena Ling", "Angel X. Chang", "Manolis Savva", "Daniel Ritchie"],
+		"venue": "SGP 2021",
+		"date": "2021-12-10",
+	},
+	{
 		"id": "zonegraphs",
 		"title": "Inferring CAD Modeling Sequences using Zone Graphs",
 		"authors": ["Xianghao Xu", "Wenzhe Peng", "Chin-Yi Cheng", "Karl D. D. Willis", "Daniel Ritchie"],
