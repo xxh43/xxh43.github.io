@@ -1,10 +1,12 @@
 [
   {
 	"id": "bos",
-	"title": "Battle of the Seasons"
+	"title": "Battle of the Seasons",
+	"date": "2014"
   },
   {
 	"id": "east_and_west",
-	"title": "East and West"
+	"title": "East and West",
+	"date": "2013"
   }
 ]
