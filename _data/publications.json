@@ -1,5 +1,12 @@
 [
 	{
+		"id": "uma",
+		"title": "Unsupervised Kinematic Motion Detection for Part-segmented 3D Shape Collections",
+		"authors": ["Xianghao Xu", "Yifan Ruan", "Srinath Sridhar", "Daniel Ritchie"],
+		"venue": "SIGGRAPH 2022",
+		"date": "2022-8-11",
+	},
+	{
 		"id": "floor",
 		"title": "Roominoes: Generating Novel 3D Floor Plans From Existing 3D Rooms",
 		"authors": ["Kai Wang", "Xianghao Xu", "Leon Lei", "Natalie Lindsay", "Selena Ling", "Angel X. Chang", "Manolis Savva", "Daniel Ritchie"],
