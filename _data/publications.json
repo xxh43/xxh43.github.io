@@ -1,6 +1,6 @@
 [
 	{
-		"id": "floorgen",
+		"id": "floor",
 		"title": "Roominoes: Generating Novel 3D Floor Plans From Existing 3D Rooms",
 		"authors": ["Kai Wang", "Xianghao Xu", "Leon Lei", "Natalie Lindsay", "Selena Ling", "Angel X. Chang", "Manolis Savva", "Daniel Ritchie"],
 		"venue": "SGP 2021",
