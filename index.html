@@ -97,29 +97,29 @@ title: Xianghao Xu
 	
 	{% assign sorted_pubs = site.data.projects | sort: 'date' | reverse %}
 
-	{% for pub in sorted_pubs %}
+	{% for project in sorted_pubs %}
 
-		<div class='row pub'>
+		<div class='row project'>
 			
 			{% capture mainlink %}
-				{% assign firstlink = pub.links[0] %}
+				{% assign firstlink = project.links[0] %}
 				{% if firstlink.target %}
 					{{ firstlink.target }}
 				{% elsif firstlink.type == 'pdf' %}
-					pdf/{{ pub.id }}.pdf
+					pdf/{{ project.id }}.pdf
 				{% else %}
 					/
 				{% endif %}
 			{% endcapture %}
 
 			<div class='col-lg-3 col-md-4 col-xs-4 pubimagesection'>
-				<a target='_blank' href='{{ mainlink }}'><img class='pubimage img img-responsive' src='img/pubthumbs/{{ pub.id }}.png' width='200'/></a>
+				<a target='_blank' href='{{ mainlink }}'><img class='pubimage img img-responsive' src='img/pubthumbs/{{ project.id }}.png' width='200'/></a>
 			</div>
 
 			<div class='col-lg-9 col-md-8 col-xs-8 pubtextsection'>
 				
 			<div class='pubtitle'>
-				<a target='_blank' href='{{ mainlink }}'>{{ pub.title }}</a>
+				<a target='_blank' href='{{ mainlink }}'>{{ project.title }}</a>
 			</div>
 				
 		</div>
