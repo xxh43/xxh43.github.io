@@ -2,31 +2,31 @@
   {
 	"id": "bos",
 	"title": "Battle of the Seasons",
-	"intro": "A real-time action game with 2D fluid simulation implemented, winner of ETH Game Competition 2014",
+	"intro": "2D fluid simulation. Our game had more than 1000 downloads on Google Play. Our game won the 1st place of the ETH 2014 game competition, nominated as one of the best game of 2014 Swiss game festival, nominated as one of the best Swiss software 2014, and elected as the representative ETH student project for India IIT exhibition.",
 	"date": "2014"
   },
   {
 	"id": "east_and_west",
 	"title": "East and West",
-	"intro": "xxxx",
+	"intro": "Ray Tracing, Global Illumination using Photon Mapping, Subsurface Scattering, Physically BRDF (Anisotropic Lighting and Micro Facet Theory). C++ and openGL.My rendering project won 2nd place of ETH rendering competition 2013 (The Jury was formed of computer scientists and senior engineers from Pixar and Disney Research Zurich).",
 	"date": "2013"
   },
   {
 	"id": "mass_spring",
 	"title": "Jello and Cloth",
-	"intro": "xxxx",
+	"intro": "Soft body simulation, rigid body physics, mass spring system, implicit Euler function, cloth self-collision system. C++ and OpenGL. Our project won the third place of ETH physical simulation competition (Jury was formed of professors from ETH computer science department).",
 	"date": "2013"
   },
   {
 	"id": "style",
 	"title": "Style Transfer",
-	"intro": "xxxx",
+	"intro": "Implementation of Paper “Fast Patch-based Style Transfer of Arbitrary Style”, Python",
 	"date": "2020"
   },
   {
 	"id": "tron",
-	"intro": "xxxx",
-	"title": "Robot AI",
+	"title": "Tron Robot AI",
+	"intro": "Implementation of several reinforcement learning algos( Deep Q learning, Double Deep Q, Policy Gradient) and Monte Carlo Tree Search, Alpha-Beta Pruning, Python",
 	"date": "2020"
   }
 ]
