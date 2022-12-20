@@ -2,25 +2,30 @@
   {
 	"id": "bos",
 	"title": "Battle of the Seasons",
+	"intro": "A real-time action game with 2D fluid simulation implemented, winner of ETH Game Competition 2014",
 	"date": "2014"
   },
   {
 	"id": "east_and_west",
 	"title": "East and West",
+	"intro": "xxxx",
 	"date": "2013"
   },
   {
 	"id": "mass_spring",
 	"title": "Jello and Cloth",
+	"intro": "xxxx",
 	"date": "2013"
   },
   {
 	"id": "style",
 	"title": "Style Transfer",
+	"intro": "xxxx",
 	"date": "2020"
   },
   {
 	"id": "tron",
+	"intro": "xxxx",
 	"title": "Robot AI",
 	"date": "2020"
   }
