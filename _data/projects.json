@@ -13,5 +13,15 @@
 	"id": "mass_spring",
 	"title": "Jello and Cloth",
 	"date": "2013"
+  },
+  {
+	"id": "style",
+	"title": "Style Transfer",
+	"date": "2020"
+  },
+  {
+	"id": "tron",
+	"title": "Robot AI",
+	"date": "2020"
   }
 ]
