@@ -1,5 +1,12 @@
 [
 	{
+		"id": "upra",
+		"title": "Unsupervised 3D Shape Reconstruction by Part Retrieval and Assembly",
+		"authors": ["Xianghao Xu", "Paul Guerrero", "Matthew Fisher", "Siddhartha Chaudhuri", "Daniel Ritchie"],
+		"venue": "CVPR 2023",
+		"date": "2023-6-18",
+	},
+	{
 		"id": "uma",
 		"title": "Unsupervised Kinematic Motion Detection for Part-segmented 3D Shape Collections",
 		"authors": ["Xianghao Xu", "Yifan Ruan", "Srinath Sridhar", "Daniel Ritchie"],
