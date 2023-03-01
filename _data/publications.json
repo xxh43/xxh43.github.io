@@ -1,6 +1,6 @@
 [
 	{
-		"id": "upra",
+		"id": "usrpra",
 		"title": "Unsupervised 3D Shape Reconstruction by Part Retrieval and Assembly",
 		"authors": ["Xianghao Xu", "Paul Guerrero", "Matthew Fisher", "Siddhartha Chaudhuri", "Daniel Ritchie"],
 		"venue": "CVPR 2023",
