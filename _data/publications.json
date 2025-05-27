@@ -1,4 +1,13 @@
 [
+
+	{
+		"id": "ParSEL",
+		"title": "ParSEL: Parameterized shape editing with language",
+		"authors": ["Aditya Ganeshan, Ryan Huang, Xianghao Xu, R Kenny Jones, Daniel Ritchie"],
+		"venue": "SIGGRPAH Asia 2024",
+		"date": "2024-12-19",
+	},
+	
 	{
 		"id": "usrpra",
 		"title": "Unsupervised 3D Shape Reconstruction by Part Retrieval and Assembly",
