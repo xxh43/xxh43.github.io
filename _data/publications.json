@@ -5,6 +5,7 @@
 		"authors": ["Ruiqi Xu, Zihan Zhu, Xianghao Xu, Srinath Sridhar, Daniel Ritchie"],
 		"venue": "ArXiv 2025",
 		"date": "2025-5-1",
+		
 	},
 	
 	{
@@ -14,13 +15,14 @@
 		"venue": "SIGGRPAH Asia 2024",
 		"date": "2024-12-19",
 	},
-
+	
 	{
 		"id": "Icon",
 		"title": "Creating Language-driven Spatial Variations of Icon Images",
 		"authors": ["Xianghao Xu, Aditya Ganeshan, Karl D.D. Willis, Yewen Pu, Daniel Ritchie"],
 		"venue": "ArXiv 2024",
 		"date": "2024-10-30",
+	
 	},
 	
 	{
