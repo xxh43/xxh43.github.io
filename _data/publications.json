@@ -1,6 +1,6 @@
 [
 	{
-		"id": "ProcTex",
+		"id": "proc_tex",
 		"title": "ProcTex: Consistent and Interactive Text-to-texture Synthesis for Procedural Models",
 		"authors": ["Ruiqi Xu, Zihan Zhu, Xianghao Xu, Srinath Sridhar, Daniel Ritchie"],
 		"venue": "ArXiv 2025",
